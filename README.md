@@ -1,2 +1,2 @@
 # pa-algorithms
-Repository with algorithms for Physical Activity.
+Repository with Perfect Fit algorithms for physical activities and training plans.
