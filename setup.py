@@ -6,6 +6,6 @@ setup(name='paalgorithms',
       url='https://github.com/PerfectFit-project/pa-algorithms',
       author='Bouke Scheltinga',
       author_email='b.l.scheltinga@utwente.nl',
-      license='MIT',
+      license='_',
       packages=['paalgorithms'],
       zip_safe=False)
