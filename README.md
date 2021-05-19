@@ -3,4 +3,6 @@ Repository with Perfect Fit algorithms for physical activities and training plan
 
 ## Installation instructions
 This library can be installed with:
-  pip install git+https://github.com/PerfectFit-project/pa-algorithms
+```
+pip install git+https://github.com/PerfectFit-project/pa-algorithms
+```
